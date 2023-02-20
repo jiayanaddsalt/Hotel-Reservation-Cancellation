@@ -12,5 +12,5 @@ My goals for modeling are:
 2. Explore both manual parameter tuning and GridSearch
 3. Explore a simplified tree that is computationally and data cheap, because in business settings, it’s not all about precision and recall, it’s more about cost/quality ratio
 
-data: stores the raw dataset and preprocessed dataset
-classification.ipynb: stores the codes of the complete pipeline from data preprocessing to fine tuning model parameters.
+- data: stores the raw dataset and preprocessed dataset
+- classification.ipynb: stores the codes of the complete pipeline from data preprocessing to fine tuning model parameters.
